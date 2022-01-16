@@ -16,9 +16,6 @@ Contact with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/noorhossain809)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' background-color='red'>](https://www.linkedin.com/in/https://www.linkedin.com/in/noor-hossain-172175211//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/noor.hosain.3745)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://my-portfolio-project-fdafe.web.app/)  
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorhossain809)](https://github.com/anuraghazra/github-readme-stats)
 
