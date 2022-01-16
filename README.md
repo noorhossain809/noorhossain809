@@ -16,7 +16,7 @@ Skills: REACT / JS / HTML / CSS/Node.js/expressJs/Bootstrap5/Material ui/mongoDB
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=noorhossain809)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorhossain809)](https://github.com/anuraghazra/github-readme-stats)
 
