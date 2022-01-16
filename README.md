@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋, 
 I'm Noor Hossain
 #### I'm a 😍😍Javascript Lover😍😍!
 I have earned database management, coding and of the programming software used to create websites. I am proficient in HTML and I have a basic knowledge of several scripting languages, structured programming languages and knowledge of HTML5, CSS3. I also have knowledge of system development, JavaScript, NodeJS, react ,redux, typescript , firebase, expressJs and mongoDB.
